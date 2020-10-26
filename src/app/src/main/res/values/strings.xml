@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Keep Me Awake</string>
+    <string name="keep_me_awake_title">Keeps the screen on</string>
 </resources>
